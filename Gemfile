@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby '3.1.4'
+ruby '2.5.8'
 
 gem 'rake'
 
